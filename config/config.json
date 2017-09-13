@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "joseph",
+    "password": 123,
+    "database": "vendingdb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "joseph",
+    "password": 123,
+    "database": "vendingdb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "joseph",
+    "password": 123,
+    "database": "vendingdb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
